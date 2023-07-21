@@ -1,5 +1,5 @@
-// eslint-disable-next-line no-unused-vars
-import React from "react";
+
+
 
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div className="bg-black">
-      <p className="bg-black">abebeb</p>
+      <p className="bg-white">abebeb</p>
     </div>
   )
 }
